@@ -9,7 +9,7 @@ import SwiftUI
 struct LearningSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DocScannerView()
         }
     }
 }
